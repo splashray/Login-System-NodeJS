@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/4f91f06e-93dc-4e9e-ae9b-cc27af6651e0/appservices/subscriptions/4f91f06e-93dc-4e9e-ae9b-cc27af6651e0/resourceGroups/AppServiceSplash/providers/Microsoft.Web/sites/splashray",
+    "appService.deploySubpath": "."
+}
